@@ -6,5 +6,5 @@ During my freetime I enjoy combining my passion for tecnology with my other hobb
 - 🌱 I’m currently learning: KiCAD and OpenCV.
 - 😄 Pronouns: He
 - 📫 How to reach me:
-  - 📧 2001.paok@gmail.com \n
+  - 📧 2001.paok@gmail.com
   - 📞 312 166 3587
