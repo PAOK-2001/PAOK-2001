@@ -1,5 +1,5 @@
 ### Hello!!
-Hello! My name is Pablo! I am currently sophomore studying Robotics and Systems Engineering. I am passionate about all things technology and science.
+My name is Pablo! I am currently sophomore studying Robotics and Systems Engineering. I am passionate about all things technology and science.
 During my freetime I enjoy combining my passion for tecnology with my other hobby: the electric guitar.
 
 - 🔭 I’m currently working on: lane tracker using OpenCV.
