@@ -7,4 +7,7 @@ During my freetime I enjoy combining my passion for tecnology with my other hobb
   - 📧 2001.paok@gmail.com
   - 📞 312 166 3587
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAOK-2001&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAOK-2001&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAOK-2001&layout=compact)](https://github.com/PAOK-2001/github-readme-stats)
+
